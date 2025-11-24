@@ -1,0 +1,6 @@
+﻿char_id,label,degree,weighted_degree,betweenness,closeness
+BAOYU,贾宝玉,4,4405,0.0,1.0
+DAIYU,林黛玉,4,2644,0.3333333333333333,1.0
+BAOCHAI,薛宝钗,4,2297,0.0,1.0
+WANGXIFENG,王熙凤,4,2117,0.6666666666666666,1.0
+JIAMU,贾母,4,3379,0.0,1.0
